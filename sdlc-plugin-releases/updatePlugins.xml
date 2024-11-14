@@ -12,19 +12,12 @@
     -->
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
-            url="https://raw.githubusercontent.com/andreaalmenari/cluster-reply-sdlc-intellij-plugin/refs/heads/main/last-release/Cluster_Reply_SDLC_Intellij_Plugin-1.0-SNAPSHOT.zip"
-            version="major.minor.update">
+            url="https://raw.githubusercontent.com/andreaalmenari/cluster-reply-sdlc-intellij-plugin/refs/heads/main/last-release/Cluster_Reply_SDLC_Intellij_Plugin-1.0.2.zip"
+            version="1.0.2">
         <!--
         The <idea-version> element (required) must match the same element
         in the plugin.xml file.
         -->
         <idea-version since-build="222"/>
     </plugin>
-    <plugin
-            id="id.of.different.plugin"
-            url="https://othercompany.example.com/other_repo/other_plugin.jar"
-            version="major.minor">
-        <idea-version since-build="181.3" until-build="191.*"/>
-    </plugin>
-    <!-- And so on for other plugins... -->
 </plugins>
