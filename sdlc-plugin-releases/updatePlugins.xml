@@ -12,7 +12,7 @@
     -->
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
-            url="https://raw.githubusercontent.com/andreaalmenari/cluster-reply-sdlc-intellij-plugin/refs/heads/main/last-release/Cluster_Reply_SDLC_Intellij_Plugin-1.0.2.zip"
+            url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
             version="1.0.2">
         <!--
         The <idea-version> element (required) must match the same element
