@@ -13,7 +13,7 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.4">
+            version="1.0.5">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
@@ -21,6 +21,7 @@
             <ul>
                 <li>Fixes</li>
                 <li>Improved JUnit BDD checking and generation</li>
+                <li>Added copy code section in chat</li>
             </ul>
             ]]>
         </change-notes>
