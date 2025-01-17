@@ -13,15 +13,13 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.11">
+            version="1.0.12">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
             <![CDATA[
             <ul>
-                <li>new stacktrace analysis with instruction: type <b>/debug</b>, paste the stacktrace in the chat and go!</li>
-                <li>fixes for BDD JUnit</li>
-                <li>fixes SonarQube integration</li>
+                <li>Added chat prompt actions support</li>
             </ul>
             ]]>
         </change-notes>
