@@ -13,13 +13,13 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.12">
+            version="1.0.14">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
             <![CDATA[
             <ul>
-                <li>Added chat prompt actions support</li>
+                <li>Now Instancio used in JUnits only if present in project POM</li>
             </ul>
             ]]>
         </change-notes>
