@@ -13,17 +13,14 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.17">
+            version="1.0.18">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
-            <![CDATA[
+            <![CDATA[<html><body>
             <ul>
-                <li>Fixed: issue with JUnit generation for very long classes</li>
-                <li>Fixed: issue with JUnits: now the prompt receives the JDK version in input</li>
-                <li>Added: Javadoc generation for methods ITA and ENG</li>
-                <li>Added: paste code to current opened editor</li>
-            </ul>
+                <li>fixed javadoc prompt in english</li>
+            </ul><body></html>
             ]]>
         </change-notes>
         <idea-version since-build="222"/>
