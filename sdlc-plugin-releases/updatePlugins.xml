@@ -13,27 +13,12 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.19">
+            version="1.0.20">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
             <![CDATA[<html><body>
-            Added new models:
-            gpt-4
-            gpt-4.1
-            gpt-4.1-mini
-            gpt-4.1-nano
-            o1
-            o3
-            o3-mini
-            o4-mini
-
-            Updated models:
-            gpt-4
-            gpt-4o
-            gpt-4v
-            o1-mini
-            o1-preview
+            Fixes for Javadoc generation
             <body></html>
             ]]>
         </change-notes>
