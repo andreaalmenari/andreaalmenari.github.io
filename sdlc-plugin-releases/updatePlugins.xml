@@ -13,7 +13,7 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.20">
+            version="1.0.21">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
