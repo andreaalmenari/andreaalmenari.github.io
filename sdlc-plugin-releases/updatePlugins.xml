@@ -13,12 +13,12 @@
     <plugin
             id="com.reply.cluster.sdlc.Reply_SDLC_AI"
             url="https://andreaalmenari.github.io/sdlc-plugin-releases/Cluster_Reply_SDLC_Intellij_Plugin.zip"
-            version="1.0.23">
+            version="1.0.24">
         <name>Cluster Reply SDLC IntelliJ Plugin</name>
         <description>Empower your code with AI!</description>
         <change-notes>
             <![CDATA[<html><body>
-            Fixes for Javadoc generation
+            Fixes for JUnit generation
             <body></html>
             ]]>
         </change-notes>
